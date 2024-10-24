@@ -4,8 +4,10 @@ NAME:Soundariyan MN
 
 REG: 212222230146
 
+**DATE: 17.04.2024**
+
 ### Aim:
-To implement the Classical Planning Algorithm.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**DATE: 17.04.2024**
+To implement the Classical Planning Algorithm.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 
 ### Algorithm:
 - Define the initial state 
