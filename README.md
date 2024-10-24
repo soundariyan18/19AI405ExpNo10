@@ -1,10 +1,10 @@
 # EX-10 Implementation of Classical Planning Algorithm.
 
-NAME:Soundariyan MN
+**NAME:Soundariyan MN**
 
-REG: 212222230146
+**REG: 212222230146**
 
-**DATE: 17.04.2024**
+**DATE: 24.04.2024**
 
 ### Aim:
 To implement the Classical Planning Algorithm.&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
