@@ -44,10 +44,6 @@ def is_applicable(current_state, precondition):
     return all(current_state.get(key) == value for key, value in precondition.items())
 ```
 
-```
-Developed By: Thiyagarajan A 
-Register No : 212222240110
-```
 
 #### Example - 1
 ```Python
